@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "9f55ccb61e5e3c67bfe2da8b",
+  "owner": "pgsufnfvt",
+  "repo": "page-3c489ec8aec88293f8a31404",
+  "title": "白嫖(2046gq)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3c489ec8aec88293f8a31404",
+      "a": "白嫖(2046gq)",
+      "b": "",
+      "entity": "白嫖(2046gq)",
+      "brand": "白嫖(2046gq)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "55bce2c798fca1900a9632b54088a85f6086a739545adecab35ff79b29415cd9",
+      "content": {
+        "keyword1": "白嫖(2046gq)",
+        "keyword2": "",
+        "primary_entity": "白嫖(2046gq)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "白嫖(2046gq)提供机场订阅、VPN网络加速与多端客户端下载指引，覆盖流媒体解锁、游戏加速和跨境办公，可按基础版、旗舰版、团队版选择流量与设备额度。",
+          "AI_DESCRIPTION": "白嫖(2046gq)提供机场订阅、VPN网络加速与多端客户端下载指引，覆盖流媒体解锁、游戏加速和跨境办公，可按基础版、旗舰版、团队版选择流量与设备额度。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--bg:#f3f4f6;--card:#fff;--purple:#6d28d9;--dark:#5b21b6;--soft:#ede9fe;--text:#111827;--muted:#4b5563;--line:#e5e7eb;}*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:var(--bg);color:var(--text);font-size:16px;line-height:1.7}a{color:var(--purple);text-decoration:none}header{background:var(--dark);color:#fff;padding:12px 16px}.wrap{max-width:960px;margin:0 auto}.bar{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:8px}.logo{font-weight:700;font-size:18px}nav{display:flex;flex-wrap:wrap;gap:10px 14px}nav a{color:#fff;font-size:14px}main{padding-bottom:40px}.hero{padding:28px 16px 8px}h1{font-size:28px;line-height:1.3;color:var(--dark);margin-bottom:12px}.lead{color:var(--muted);margin-bottom:8px}.section{padding:20px 16px}h2{font-size:22px;color:var(--dark);margin-bottom:12px;padding-bottom:6px;border-bottom:2px solid var(--soft)}h3{font-size:18px;margin:10px 0 8px;color:#1f2937}.stagger{display:flex;flex-wrap:wrap;gap:16px;align-items:stretch;margin:16px 0}.stagger.reverse{flex-direction:row-reverse}.panel{flex:1 1 280px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px}.plans{display:flex;flex-wrap:wrap;gap:16px;margin-top:12px}.plan{flex:1 1 250px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px}.plan.featured{border:2px solid var(--purple);background:var(--soft)}.badge{display:inline-block;background:var(--purple);color:#fff;font-size:12px;padding:2px 8px;border-radius:999px;margin-bottom:8px}.price{font-size:22px;font-weight:700;color:var(--dark);margin:8px 0}.annual{font-size:14px;color:var(--muted)}.plan ul,.panel ul,footer ul{margin-left:18px}.plan li,.panel li{margin:4px 0}ol{margin-left:20px}ol li{margin:6px 0}.faq-wrap{background:var(--soft);border-radius:12px;padding:16px;margin-top:8px}details{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px 14px;margin:10px 0}summary{font-weight:600;color:var(--dark)}details p{margin-top:8px;color:var(--muted)}footer{background:#1f2937;color:#e5e7eb;padding:24px 16px;font-size:14px}footer a{color:#ddd6fe}footer h2,footer h3{color:#fff;border:none;font-size:16px;margin-bottom:8px}.foot{display:flex;flex-wrap:wrap;gap:20px}.col{flex:1 1 200px}.ad{background:#374151;padding:12px;border-radius:8px;margin:8px 0}@media (max-width:640px){h1{font-size:24px}.stagger,.stagger.reverse{flex-direction:column}.plan{flex:1 1 100%}}</style><header><div class=\"wrap bar\"><span class=\"logo\">白嫖(2046gq)</span><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main><div class=\"wrap\"><section class=\"hero\" id=\"intro\"><h1>白嫖(2046gq) 官方网站</h1><p class=\"lead\">白嫖(2046gq)提供机场订阅、VPN 网络加速与多端客户端使用指引，面向跨境办公、流媒体播放和游戏加速的个人与团队。本页公示套餐、线路分层与导入步骤，便于在官网完成了解与下载准备。</p></section><section class=\"section\"><div class=\"stagger\"><div class=\"panel\"><h2>品牌简介</h2><p>白嫖(2046gq)是以订阅制交付的网络加速服务。我们把节点运维、线路筛选和客户端适配说明集中在官方网站，帮助用户按流量、设备数和场景选择套餐。服务强调可核对的月度额度与同时在线台数，以及流媒体、游戏对线路类型的不同需求。</p><p>你可以使用 Clash、sing-box、Shadowrocket 等常见工具导入订阅并切换节点。请只通过官网公示信息核对价格与权益，避免非官方渠道的仿冒配置或安装包。</p></div><div class=\"panel\"><h3>服务要点</h3><ul><li>三档清晰套餐：基础版、旗舰版、团队版，月付与年付对照</li><li>常用区域节点分层：普通池、IPLC 游戏优化与 VIP 高带宽</li><li>流媒体策略随套餐升级，从基础解锁到全节点原生</li><li>工单响应与客户经理随套餐提供，团队版可谈定制路由</li><li>官网给客户端名称与导入步骤，不托管可执行安装文件</li></ul></div></div></section><section class=\"section\" id=\"scenes\"><h2>使用场景</h2><div class=\"stagger reverse\"><div class=\"panel\"><h3>跨境办公与学习</h3><p>远程会议、代码托管、学术资源和云文档需要稳定链路。基础版覆盖轻度跨境办公；多人共用、长时间同步或更多终端，应预留旗舰或团队版的流量与设备余量。</p><h3>流媒体与资讯</h3><p>影视、直播和新闻站点对出口 IP 更敏感。基础版面向常规解锁；旗舰版与团队版强调全节点原生流媒体能力。实际播放仍可能随目标站点策略变化，需在客户端中选用对应节点。</p></div><div class=\"panel\"><h3>游戏加速</h3><p>旗舰版包含 IPLC 专线游戏加速优化，适合对延迟敏感的对战与更新。延迟还受本地宽带和区服位置影响，建议在客户端挑选游戏向节点并自行比较。</p><h3>家庭与小团队</h3><p>同时在线是硬限制：基础版 3 台、旗舰版 5 台、团队版 20 台。手机、电脑、电视盒子会占用名额，共享前先规划，避免互相挤占掉线。</p></div></div></section><section class=\"section\" id=\"plans\"><h2>套餐方案</h2><p>价格与权益以本页为准。年付按优惠口径展示，便于对比长期成本。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section class=\"section\" id=\"guide\"><h2>操作说明</h2><div class=\"stagger\"><div class=\"panel\"><h3>从选购到连上节点</h3><ol><li>按设备数量、月流量、是否需要 IPLC 或全量流媒体，对照三档套餐。</li><li>经官方渠道完成订阅后，妥善保存订阅链接或二维码，不要公开张贴。</li><li>从系统商店或各工具官方页面安装客户端，不要使用来历不明的安装包。</li><li>在客户端选择从 URL 更新订阅，粘贴地址并拉取节点列表。</li><li>按浏览、流媒体或游戏用途挑选节点，开启规则模式或所需的 TUN 模式。</li><li>异常时先核对系统时间、规则、套餐是否有效及流量是否用尽，再提交工单。</li></ol></div><div class=\"panel\"><h3>使用边界</h3><p>同时在线按活跃连接或认证设备统计，超出套餐台数可能被断开。流量通常按月重置，周期以账户说明为准。请遵守当地网络与版权规定，勿将订阅用于未授权访问或违法用途。</p><p>企业定制路由仅团队版提供，需向客户经理说明网段和分流目标。个人用户使用客户端内规则即可覆盖大多数站点。</p></div></div></section><section class=\"section\" id=\"download\"><h2>客户端下载指引</h2><div class=\"stagger reverse\"><div class=\"panel\"><h3>请走各端官方来源</h3><ul><li>Windows：Clash Verge、v2rayN、sing-box 图形客户端</li><li>macOS：ClashX Meta、Stash 或 sing-box</li><li>Android：Clash Meta for Android、surfboard、sing-box</li><li>iOS：Shadowrocket、Stash、Loon（需对应商店渠道）</li><li>路由器与 Linux：clash 或 sing-box 核心配合订阅</li></ul><p>白嫖(2046gq)官网不提供 exe 或 apk 托管，以降低捆绑与仿冒风险。安装完成后回到本页，按操作说明导入订阅即可。</p></div><div class=\"panel\"><h3>导入与更新</h3><p>多数客户端支持 HTTPS 订阅。建议开启自动更新（间隔 6 至 24 小时）。节点名通常含区域和线路类型；旗舰与团队用户可优先选择标注 IPLC、流媒体或 VIP 的条目。</p><p>订阅失效时，先在官网核对称套餐状态再刷新客户端。不要使用所谓破解版客户端连接本服务。</p><p><a href=\"#faq\">查看导入常见问题</a> · <a href=\"#plans\">返回套餐</a></p></div></div></section><section class=\"section\" id=\"faq\"><h2>常见问题</h2><p>以下条目按真实使用路径编写，可作为白嫖(2046gq) 的简明手册。点开即可阅读完整说明。</p><div class=\"faq-wrap\"><details><summary>白嫖(2046gq) 是机场订阅还是单一 VPN 软件？</summary><p>白嫖(2046gq)以机场订阅为主：你得到的是节点集合与流量额度，可在 Clash、sing-box、Shadowrocket 等多种客户端中使用。它不是锁死在某一款自家应用里的封闭 VPN，而是便于按场景切换节点和规则的加速服务。</p></details><details><summary>如何确认是官网，客户端该去哪里下载？</summary><p>请认准品牌全称「白嫖(2046gq)」，通过你保存的官方网站入口访问。本站只公示套餐、操作说明和客户端名称，不散发安装包。价格明显低于本页、或要求扫描未知应用才能“白嫖”的来源，都应避开。各系统请到官方商店搜索上文列出的工具名称。</p></details><details><summary>基础版、旗舰版、团队版怎么选？</summary><p>一人两台设备、轻度浏览可选基础版（100GB / 3 设备 / 基础流媒体）。需要更完整的流媒体解锁、游戏 IPLC 或约五台设备，选旗舰版（300GB、优先工单）。工作室、较多电视盒或要定制分流，选团队版（1000GB / 20 设备 / 客户经理）。年付分别为 ¥150、¥350、¥850。</p></details><details><summary>流量如何计算？看视频会不会很快用尽？</summary><p>一般按套餐月额度统计上下行。高清流媒体和游戏更新消耗明显：100GB 更适合网页与间歇视频；经常 4K 或大更新建议旗舰及以上。是否含目录流量、重置日以账户说明为准。用尽后高速访问可能中断，可等待重置或升级。</p></details><details><summary>Windows、安卓、iOS 怎样导入订阅？</summary><p>Windows 在 v2rayN 或 Clash 的订阅窗口粘贴同一链接并更新。安卓在 Clash Meta 的 Profiles 添加 URL。iOS 在 Shadowrocket 等应用中新增订阅。成功后更新节点，优先使用规则模式。逐步说明见本页「操作说明」。</p></details><details><summary>连不上节点或流媒体仍提示未解锁怎么办？</summary><p>依次检查系统时间、订阅是否在有效期、流量是否耗尽、是否选错区域、规则是否过严。流媒体对 IP 纯净度敏感，请改用套餐内标注解锁的节点，并关闭可能干扰 DNS 的插件。仍失败时，旗舰走优先工单，团队联系客户经理，说明节点名和报错文本。</p></details><details><summary>年付如何理解？团队版能否对接发票？</summary><p>年付是在月价基础上的优惠展示，便于长期使用降低平均成本。虚拟服务的退款与发票规则因支付通道而异，下单前请阅读当时展示的条款。团队版可通过专属客户经理沟通发票或简单合同，本页内容用于套餐对照，不替代法律文本。</p></details></div></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><div class=\"foot\"><div class=\"col\" id=\"sitemap\"><h2>网站地图</h2><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载指引</a></li><li><a href=\"#faq\">常见问题</a></li></ul></div><div class=\"col\"><h3>友情链接</h3><ul><li><a href=\"#\">网络延迟与线路对照资料</a></li><li><a href=\"#\">Clash 规则入门笔记</a></li><li><a href=\"#\">公开 DNS 与隐私实践</a></li><li><a href=\"#\">团队版合作说明</a></li></ul></div><div class=\"col\"><h3>广告位</h3><div class=\"ad\">文字广告：云主机与骨干网络服务展示（占位文案，本页不外链跳转）。</div><div class=\"ad\">文字广告：远程协作与安全办公工具推荐位（仅文案）。</div></div></div><p>白嫖(2046gq) 官方网站 · 机场订阅、网络加速梯子与客户端下载指引。请通过正规渠道获取服务。页面说明用于了解套餐与操作，不保证任一第三方站点在所有时间可用。</p></div></footer>",
+          "hash": "f483c3e71ca029528abbfd568a8bfc0a5f5ae2e9f64edb43eccc6db0fa868fb8",
+          "seo": {
+            "title": "白嫖(2046gq) 官方网站：机场订阅、网络加速梯子与客户端下载",
+            "keywords": "白嫖(2046gq),白嫖机场,2046gq,VPN梯子,网络加速,加速器,机场订阅,客户端下载,官网下载",
+            "description": "白嫖(2046gq)提供机场订阅、VPN网络加速与多端客户端下载指引，覆盖流媒体解锁、游戏加速和跨境办公，可按基础版、旗舰版、团队版选择流量与设备额度。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "knnsuqf.cn",
+    "host": "p-6e5590d80a.knnsuqf.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "3uo0qh.cn",
+      "url": "https://3uo0qh.cn/",
+      "label": "白嫖(2046gq)",
+      "apex": "3uo0qh.cn",
+      "kind": null,
+      "identity": "mk5ajyye/page-d1b7b1c7d7aa3e3e5bc72918"
+    },
+    {
+      "host": "bjkjsul.cn",
+      "url": "https://bjkjsul.cn/",
+      "label": "白嫖(2046gq)",
+      "apex": "bjkjsul.cn",
+      "kind": null,
+      "identity": "lnzlwsdd/page-13ea5b8dab6260404497c767"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "97629799293e574bae5875176bdf9463e4a0e4246bc872e12a01773223a48c9c",
+    "sitemap.xml": "e15b92bfffd03c5b75bd75ac6795467019cf1034669477009a1774e89e3b383b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "995b21480fb1b5463d3cc281af7a602e6ce8945bf8af59c15dd1c8721255db3c",
+    "robots.txt": "d6311d59486632d0595619fb62c0f9e9e0e137a5945a12f3f357f9b19b2c7e13",
+    "5f0a393e6402ed1d613f8fb672e3776e.txt": "bbfc33094f3b6a1afabb3621b5262c57013f54db7c999576406cef70cbe565ae"
+  },
+  "revision": "1d34f38f630b579e5e43accbbb324fd6e22287679267eb31a10465c5e521abeb"
+}
